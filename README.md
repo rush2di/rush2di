@@ -37,3 +37,5 @@ Fullstack developer specialized in Web/Mobile Frontend development ⚡
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=rush2di&theme=dark)](https://git.io/streak-stats)
 
+![Chart](./profile-3d-contrib/profile-night-green.svg)
+
