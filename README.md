@@ -35,7 +35,9 @@ Fullstack developer specialized in Web/Mobile Frontend development ⚡
 <code><img width="20" src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png" alt="Selenium" title="Selenium"/></code>
 <code><img width="20" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" title="Figma"/></code>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=rush2di&theme=dark)](https://git.io/streak-stats)
 
 ![Chart](./profile-3d-contrib/profile-night-green.svg)
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=rush2di&theme=dark)](https://git.io/streak-stats)
 
