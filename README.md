@@ -1,7 +1,5 @@
 ![rush2di](https://komarev.com/ghpvc/?username=rush2di&label=Profile%20views&color=0e75b6&style=flat)
 
-![Art](https://res.cloudinary.com/djartpeww/image/upload/c_crop,g_center,h_263,q_100,r_10,w_728,y_15/v1716073578/penusbmic-pixel-art-hd-wallpaper-preview_b7xis0.png)
-
 ### Hi there I'm Rochdi 🧙‍♂️
 Fullstack developer specialized in Web/Mobile Frontend development, with a knack for crafting pixel-perfect interfaces and a passion for bringing vibrant, dynamic user experiences to life. I infuse creativity into my work, transforming the digital world into a more captivating place, one line of code at a time. ⚡
 
