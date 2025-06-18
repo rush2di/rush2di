@@ -1,7 +1,7 @@
 ![rush2di](https://komarev.com/ghpvc/?username=rush2di&label=Profile%20views&color=0e75b6&style=flat)
 
 ### Hi there I'm Rochdi 🧙‍♂️
-Fullstack developer specialized in Web/Mobile Frontend development, with a knack for crafting pixel-perfect interfaces and a passion for bringing vibrant, dynamic user experiences to life. I infuse creativity into my work, transforming the digital world into a more captivating place, one line of code at a time. ⚡
+Fullstack developer specialized in Web/Mobile Frontend development, with a knack for crafting pixel-perfect interfaces and a passion for bringing vibrant, dynamic user experiences to life. I infuse creativity into my work, transforming the digital world into a more captivating place, one line of code at a time.
 
 ### Reach out:  
 [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:roch2di@gmail.com)](mailto:roch2di@gmail.com) 
